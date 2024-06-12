@@ -4,7 +4,7 @@ Projeto de engenharia de dados para análise de emotes mais utilizados nos chats
 
 ## Motivação
 
-Este é um projeto de estudos e prova de conteito. O Objetivo é criar um pipeline de dados para análise de dados Near Real-Time.
+Este é um projeto de estudos e prova de conteito. O Objetivo é criar um pipeline de dados para análise Near Real-Time.
 
 ## Status
 
