@@ -1,6 +1,6 @@
 # Twitch Emote Analysis
 
-Projeto de engenharia de dados para análise de emotes mais utilizados nos chats dos canais da Twitch TV.
+Projeto de engenharia de dados para análise de emotes mais utilizados em chats da Twitch TV.
 
 ## Motivação
 
