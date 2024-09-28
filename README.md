@@ -1,18 +1,18 @@
 # Twitch Emote Analysis
 
-Projeto de engenharia de dados para análise de emotes mais utilizados em chats da Twitch TV.
+DataLake para armazenar mensagens do chat da Twitch.tv para que seja possível fazer análises próximas ao tempo real dos emotes mais utilizados por usuários do chat.
 
 ## Motivação
 
-Este é um projeto de estudos e prova de conteito. O Objetivo é criar um pipeline de dados para análise Near Real-Time.
+Este é um projeto de estudo e prova de conteito.
 
 ## Status
 
 WORK IN PROGRESS
 
-## Pipeline de Dados
+## Arquitetura de Dados
 
-![architecture](./imgs/data-pipeline.png)
+![architecture](./imgs/data-architecture.png)
 
 ## Ferramentas
 
@@ -23,13 +23,16 @@ WORK IN PROGRESS
 - Docker
 - Terraform
 - Bash
+- Airflow
 
 ## Serviços AWS
 
 - ECS
 - Kinesis
 - Lambda
-- EventBridge
+- EC2
+- RDS
+- DynamoDB
 - S3
 - EMR
 - VPC
