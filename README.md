@@ -2,10 +2,6 @@
 
 DataLake para armazenar mensagens do chat da Twitch.tv para que seja possível fazer análises próximas ao tempo real dos emotes mais utilizados por usuários do chat.
 
-## Motivação
-
-Este é um projeto de estudo e prova de conteito.
-
 ## Status
 
 WORK IN PROGRESS
